@@ -27,7 +27,7 @@ NinjaTrip은 사용자의 여행을 더 풍요롭게 만들어줍니다.
 <br><br>
 
 ## 　🔨 ERD
-
+<img src="https://github.com/NinjasTrip/.github/assets/142863071/83ab2541-eff5-4d07-8e67-a6e39facd9fb">
 
 
 <br><br>
