@@ -2,13 +2,14 @@
 🏮 본 프로젝트는 **삼성 청년 SW 아카데미** 1학기 관통 프로젝트 결과물입니다
 <br><br>
 
-## NinJaTrip⛩️ : 여행을 위한 최고의 선택
+## 　NinJaTrip⛩️ : 여행을 위한 최고의 선택
 NinjaTrip은 사용자의 여행을 더 풍요롭게 만들어줍니다. 이를 위해, 여행지 검색, 여행지 리뷰 등록 및 검색, 여행 다이어리 작성, 여행 다이어리 공유, 여행 경로 설정 등 여행과 관련된 다양한 부가서비스를 제공합니다. 
 <br><br>
 
-## Main Demo Video
+## 　Main Demo Video
 <br><br>
-## 🔨 Tech Stack
+# 산출물 
+## 　🔨 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/API-Kakao_Map-red?style=flat"> 
   <img src="https://img.shields.io/badge/API-Naver_News-6DB33F?style=flat"> 
@@ -20,14 +21,14 @@ NinjaTrip은 사용자의 여행을 더 풍요롭게 만들어줍니다. 이를 
   <img src="https://img.shields.io/badge/Framework-SpringFramework-6DB33F?style=flat&logo=spring&logoColor=white">
 </p>
 
-## 🔨 Tech Stack
+## 　🔨 아키텍처
 <br><br>
 
+## 　🔨 ERD
 
 
 
-
-
+<br><br>
 ## 🥋팀원
 
 <table>
