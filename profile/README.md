@@ -3,7 +3,8 @@
 <br><br>
 
 ## 　NinJaTrip⛩️ : 여행을 위한 최고의 선택
-NinjaTrip은 사용자의 여행을 더 풍요롭게 만들어줍니다. 이를 위해, 여행지 검색, 여행지 리뷰 등록 및 검색, 여행 다이어리 작성, 여행 다이어리 공유, 여행 경로 설정 등 여행과 관련된 다양한 부가서비스를 제공합니다. 
+NinjaTrip은 사용자의 여행을 더 풍요롭게 만들어줍니다.
+이를 위해, 여행지 검색, 여행지 리뷰 등록 및 검색, 여행 다이어리 작성, 여행 다이어리 공유, 여행 경로 설정 등 여행과 관련된 다양한 부가서비스를 제공합니다. 
 <br><br>
 
 ## 　Main Demo Video
@@ -21,7 +22,7 @@ NinjaTrip은 사용자의 여행을 더 풍요롭게 만들어줍니다. 이를 
   <img src="https://img.shields.io/badge/Framework-SpringFramework-6DB33F?style=flat&logo=spring&logoColor=white">
 </p>
 
-## 　🔨 아키텍처
+## 　🔨 Architecture
 <br><br>
 
 ## 　🔨 ERD
